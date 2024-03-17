@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+input {
+    padding: 8px;
+    margin: 5px;
+}
+button {
+    padding: 8px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
